@@ -1,4 +1,5 @@
-import { commands, papyrus, keyboard } from './index.mjs'
+import { commands, keyboard } from './markup.mjs'
+import { papyrus } from './papyrus.mjs'
 
 const contextTree = [
     {
