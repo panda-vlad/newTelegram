@@ -1,9 +1,9 @@
 export const commands = {
-    toShockingFacts: 'toShockingFacts' 
+    goBack: 'goBack'
 }
 
 export const keyboard = {
-    intro: [['Цікаві факти'], ['Назад']],
+     goBack: [['Назад']]    
 }
 
 
