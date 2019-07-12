@@ -1,6 +1,4 @@
-const toShockingFacts = () => {
-  
-}
+
 
 const Factory2 = param => {
     return async (response, Message) => {
@@ -14,5 +12,3 @@ const Factory2 = param => {
 }
 
 export const scenarious = new Map()
-
-scenarious.set('toShockingFacts', toShockingFacts)
