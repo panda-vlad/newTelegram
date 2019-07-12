@@ -1,3 +1,3 @@
-const papyrus = {
+export const papyrus = {
     
 }
